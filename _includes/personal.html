@@ -1,0 +1,22 @@
+{% assign personals = site.data.data.sidebar.personals %}
+{% if personals %}
+<div class="interests-container container-block">
+
+  <h2 class="container-block-title">
+    Kişisel Bilgiler
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for personal in personals %}
+
+      {% if personal.link %}
+      <li><a href="{{ interest.link }}">{{ personal.item }}</a></li>
+      {% else %}
+      <li>{% if personal.icon %}<i class="{{ personal.icon }}"></i> {% endif %}{{ personal.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//personals-->
+{% endif %}

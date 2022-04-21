@@ -20,7 +20,7 @@
         position: static;
         float: right;
         width: 40%;
-        -webkit-print-color-adjust: exact; 
+        -webkit-print-color-adjust: inherit; 
     }
 
     .remove-container.container-block {
@@ -34,6 +34,7 @@
     .skillset .level-bar-inner {
        background-color: black !important;
        -webkit-print-color-adjust: exact; 
+       width: inherit;
     }
 
    .fa-inverse,

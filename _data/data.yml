@@ -37,6 +37,19 @@ sidebar:
 
       - idiom: Spanish
         level: Professional
+    
+    personals:
+      - item: "11.11.1990"
+        icon: fas fa-phone
+        link:
+
+      - item: Bekar
+        icon: fas fa-life-ring
+        link:
+
+      - item: Askerlik tamamlandı
+        icon: fas fa-shield-alt
+        link:
 
     interests:
       - item: Climbing
@@ -55,60 +68,30 @@ career-profile:
       Eğer sizde kabul ederseniz profesyonel bir şekilde bu pozisyonu 
       ilerletebileceğimi düşünüyorum.Balıkesir'de yaşıyorum. Üniversiteyi 
       satış pazarlama uzmanı olarak bitirdim. Bilgisayara da yatkın biriyimdir. 
-      Bu benim ve işim için de iyi bişey. Bir çok önemli firmada çalışma
-      imkanı buldum ve hepsini profesyonelce tamamladım ve daha yüksek bir 
-      firmada çalışabilmek için size başvurdum. CV' mi değerlendirdiğiniz için 
-      teşekkür ederim.
+      Bu benim ve işim için de iyi bişey.
 education:
     - degree: MSc in Computer Science
       university: University of London
       time: 2011 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+#        detay
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+#        detay
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+#        detay
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+#        detay
 projects:
 #
 #    title: Projects
@@ -160,26 +143,14 @@ publications:
 #        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Yetenekler
 
     toolset:
-      - name: Python & Django
+      - name: Microsoft World
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Satış & Pazarlama
         level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
