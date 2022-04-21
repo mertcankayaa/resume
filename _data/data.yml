@@ -38,13 +38,14 @@ sidebar:
       - idiom: Spanish
         level: Professional
     
+    # Check for icons: https://fontawesome.com/v5/search
     personals:
       - item: "11.11.1990"
-        icon: fas fa-phone
+        icon: fas fa-calendar-day
         link:
 
       - item: Bekar
-        icon: fas fa-life-ring
+        icon: fas fa-ring
         link:
 
       - item: Askerlik tamamlandı
@@ -62,7 +63,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Özgeçmiş
+    title: ÖZGEÇMİŞ
     summary: |
       Satış pazarlama uzmanı olarak kurumunuzda çalışma gereği duydum. 
       Eğer sizde kabul ederseniz profesyonel bir şekilde bu pozisyonu 

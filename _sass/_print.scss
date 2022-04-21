@@ -12,10 +12,19 @@
         // -webkit-filter: greyscale(1);
     }
    .main-wrapper .time {
-       float: right;
-        color: black !important;
-        -webkit-print-color-adjust: exact; 
+      float: right;
+      color: black !important;
+      -webkit-print-color-adjust: exact; 
    }
+   .main-wrapper .job-title {
+      float: left;
+      -webkit-print-color-adjust: exact; 
+   }
+   .main-wrapper .degree {
+      float: left;
+      -webkit-print-color-adjust: exact; 
+   }
+   
     .sidebar-wrapper {
         position: static;
         float: right;
