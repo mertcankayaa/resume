@@ -15,7 +15,7 @@
 
     {% if sidebar.citizenship %}
     <li class="phone"><i class="fas fa-passport"></i>
-      <a href="">{{ sidebar.citizenship }}</a>
+      {{ sidebar.citizenship }}
     </li>
     {% endif %}
 
@@ -92,7 +92,7 @@
     {% endif %}
 
     {% if sidebar.print %}
-    <li class="pdf"><i class="fas fa-print"></i>
+    <li class="print"><i class="fas fa-print"></i>
       <a onclick="window.print()" style="cursor: pointer;">Yazdır</a>
     </li>
     {% endif %}

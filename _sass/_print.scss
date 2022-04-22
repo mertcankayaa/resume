@@ -4,6 +4,9 @@
         size: A4;
     }
     body {
+       margin-left: -0.5cm!important;
+       margin-right: -0.5cm!important;
+       padding: 0!important;
        font-size: 12pt;
     }
 
@@ -11,10 +14,15 @@
         // filter: grayscale(1);
         // -webkit-filter: greyscale(1);
     }
+
+   
    .main-wrapper .time {
       float: right;
       color: black !important;
       -webkit-print-color-adjust: exact; 
+   }
+   .sidebar-wrapper .email {
+      white-space: nowrap;
    }
    .main-wrapper .job-title {
       float: left;
@@ -26,10 +34,17 @@
    }
    
     .sidebar-wrapper {
-        position: static;
+        position: relative;
+        bottom: 0;
         float: right;
         width: 40%;
-        -webkit-print-color-adjust: inherit; 
+        -webkit-print-color-adjust: exact; 
+    }
+
+    .contact-list{
+      a[href]:after {
+         content: "";
+      }
     }
 
     .remove-container.container-block {
@@ -39,6 +54,10 @@
     footer {
        display: none;
     }
+
+    .print {
+      display: none;
+   }
 
     .skillset .level-bar-inner {
        background-color: black !important;

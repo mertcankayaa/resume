@@ -46,6 +46,7 @@ p {
 .sidebar-wrapper {
   grid-column: span 3;
   order: 2;
+  height: 100vh!important;
   background: $theme-color;
   color: #fff;
   a {
@@ -186,6 +187,12 @@ p {
     position: relative;
     overflow: hidden;
     margin-bottom: 2px;
+
+    display: flex;
+    justify-content: space-between;
+  }
+  .upper-row div {
+    text-align: top;
   }
   .job-title,
   .degree {
@@ -200,6 +207,7 @@ p {
     right: 0;
     top: 0;
     color: $text-grey;
+    white-space: nowrap;
   }
   .company,
   .university {
