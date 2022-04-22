@@ -26,7 +26,8 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: #http://www.africau.edu/images/default/sample.pdf
+    pdf: ./Mertcan Cankaya CV.pdf #http://www.africau.edu/images/default/sample.pdf
+    print: yes
 
     languages:
       - idiom: English

@@ -87,7 +87,13 @@
 
     {% if sidebar.pdf %}
     <li class="pdf"><i class="fas fa-file-pdf"></i>
-      <a href="{{ sidebar.pdf }}" target="_blank">Resume PDF</a>
+      <a href="{{ sidebar.pdf }}" target="_blank">Özgeçmişi İndir</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.print %}
+    <li class="pdf"><i class="fas fa-print"></i>
+      <a onclick="window.print()" style="cursor: pointer;">Yazdır</a>
     </li>
     {% endif %}
 
