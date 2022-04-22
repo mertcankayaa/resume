@@ -8,40 +8,33 @@ sidebar:
 
     # Profile information
     name: Mertsscan Cankaya
-    tagline: SAAnı
+    tagline: Elektrik Ve Elektronik Teknisyeni
     avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    citizenship:
-    website: mertcan.cankaya.io #do not add http://
+    email: mertcan.cankaya@hotmail.com
+    phone: 0544 744 40 37 
+    citizenship: Türk
     linkedin: 
     xing: 
     github: 
-    telegram: # add your nickname without '@' sign
+    telegram:
     gitlab:
     bitbucket:
-    twitter: #'@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter:
+    stack-overflow:
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads:
     pdf: ./Mertcan Cankaya CV.pdf #http://www.africau.edu/images/default/sample.pdf
     print: yes
 
     languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Türkçe
+        level: Ana Dil
     
     # Check for icons: https://fontawesome.com/v5/search
     personals:
-      - item: "11.11.1990"
+      - item: "23.11.1998"
         icon: fas fa-calendar-day
         link:
 
@@ -54,44 +47,42 @@ sidebar:
         link:
 
     interests:
-      - item: Climbing
+      - item: Spor Yapmak
         link:
 
-      - item: Snowboarding
+      - item: Oyun Oynamak
         link:
 
-      - item: Cooking
+      - item: Sinemaya Gitmek
         link:
 
 career-profile:
     title: ÖZGEÇMİŞ
     summary: |
-      Satış pazarlama uzmanı olarak kurumunuzda çalışma gereği duydum. 
-      Eğer sizde kabul ederseniz profesyonel bir şekilde bu pozisyonu 
-      ilerletebileceğimi düşünüyorum.Balıkesir'de yaşıyorum. Üniversiteyi 
-      satış pazarlama uzmanı olarak bitirdim. Bilgisayara da yatkın biriyimdir. 
-      Bu benim ve işim için de iyi bişey.
+      Elektrik ve elektronik mezunuyum. Arızayı tespit etme ve elektronik 
+      cihazların birleştirilmesi konusunda tecrübelerim var.
+      İstanbulda yaşıyorum. Bilgisayara ve pratik el işçiliğine yatkın biriyimdir.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Gültepe Şehit Cihan Erat Mesleki ve Teknik Anadolu Lisesi
+      university: Elektrik Ve Elektronik
+      time: 2014 - 2017
       details: |
 #        detay
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
+    - degree: 
+      university: 
+      time: 
+      details: 
 #        detay
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Elektronik Teknisyeni Ve İmalat Sorumlusu
+      time: 2018 - Present
+      company: GD Güvenlik Elektronik Ve Bilişim Sist. San. Dış Tic. Ltd. Şti.
       details: |
 #        detay
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Güvenlik Sistemleri Montajı
+      time: 2016 - 2018
+      company: Şükür Elektronik Ve Bilişim Sist. 
       details: |
 #        detay
 projects:
@@ -148,11 +139,14 @@ skills:
     title: Yetenekler
 
     toolset:
-      - name: Microsoft World
+      - name: Microsoft Office
         level: 98%
 
       - name: Satış & Pazarlama
-        level: 98%
+        level: 75%
+      
+      - name: Güvenlik Sistemleri İmalatı
+        level: 100%
 
 footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
