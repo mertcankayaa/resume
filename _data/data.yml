@@ -85,6 +85,8 @@ experiences:
       company: Şükür Elektronik Ve Bilişim Sist. 
       details: |
 #        detay
+    
+
 projects:
 #
 #    title: Projects
@@ -137,10 +139,14 @@ publications:
 
 skills:
     title: Yetenekler
+    
+        Tübitak Konya Lise ve Universitesi Robot Yarışması
+        
+        Lise Seviyesinde içinde bulunmuş olduğum 3 kişilik takımımız 2. oldu
 
     toolset:
       - name: Microsoft Office
-        level: 98%
+        level: 100%
 
       - name: Satış & Pazarlama
         level: 75%
