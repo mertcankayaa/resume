@@ -140,10 +140,7 @@ publications:
 skills:
     title: Yetenekler
     
-        Tübitak Konya Lise ve Universitesi Robot Yarışması
         
-        Lise Seviyesinde içinde bulunmuş olduğum 3 kişilik takımımız 2. oldu
-
     toolset:
       - name: Microsoft Office
         level: 100%
@@ -153,6 +150,12 @@ skills:
       
       - name: Güvenlik Sistemleri İmalatı
         level: 100%
-
+      - name: Güvenlik Sistemleri Montaj Ve Servis 
+        level: 100%
+      - name: Zayıf Akım Montajı ve Alt Yapı kurulumu
+        level: 100%
+      - name: Arduino
+        level: 100%
+        
 footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
