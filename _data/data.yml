@@ -31,6 +31,9 @@ sidebar:
     languages:
       - idiom: Türkçe
         level: Ana Dil
+        
+      - idiom: İngilizce 
+        level: Orta Seviye ( Okul Eğitimi)
     
     # Check for icons: https://fontawesome.com/v5/search
     personals:
